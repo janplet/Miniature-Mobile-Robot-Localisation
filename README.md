@@ -5,7 +5,6 @@ The greyscale images dataset can be accesed on IEEE dataport. DOI: 10.21227/t9e0
 
 The source files will be available after publication.
 
-https://github.com/user-attachments/assets/7edd3cea-8b37-4ba4-b12c-123b84d0e99e
-
 Below is a video demonstration of robots and rocks localisation using a RP2040 microcontroller.
 
+https://github.com/user-attachments/assets/7edd3cea-8b37-4ba4-b12c-123b84d0e99e
