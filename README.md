@@ -2,7 +2,7 @@
 
 This repository contains the source files accompanying the paper:
 
-**Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot**
+***Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot**
 DOI: 10.1109/JSEN.2026.3674225
 ---
 
