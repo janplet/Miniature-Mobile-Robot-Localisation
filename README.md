@@ -1,5 +1,5 @@
 # Miniature-Mobile-Robot-Localisation
-Source files for paper (Under review): Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot.
+Source files for paper: Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot.
 DOI: 10.1109/JSEN.2026.3674225
 
 The greyscale images dataset can be accesed on IEEE dataport. DOI: 10.21227/t9e0-we58
