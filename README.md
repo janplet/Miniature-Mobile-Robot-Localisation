@@ -26,7 +26,7 @@ DOI: 10.21227/t9e0-we58
 
 The included video demonstrates real-time localisation of robots and rocks using an RP2040 microcontroller:
 
-- 🟢 **Green markers** indicate inferred positions of robots  
-- 🔴 **Red markers** indicate inferred positions of rocks  
+- **Green markers** indicate inferred positions of robots  
+- **Red markers** indicate inferred positions of rocks  
 
 ---
