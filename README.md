@@ -1,13 +1,32 @@
-# Miniature-Mobile-Robot-Localisation
-Source files for paper: Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot.
+# Constraint-Driven Neural Network Architecture Adaptation for Image Localisation
+
+This repository contains the source files accompanying the paper:
+
+**Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot**
 DOI: 10.1109/JSEN.2026.3674225
+---
 
-The greyscale images dataset can be accesed on IEEE dataport. DOI: 10.21227/t9e0-we58
+## Dataset
 
-The tflite-model folder contains Edge Impulse C++ library that lets you run the model on RP2040 via PICO SDK.
+The grayscale image dataset used in this project is available on **IEEE DataPort**.
+DOI: 10.21227/t9e0-we58
+---
 
-File 434_88.eim is the best performing Edge Impulse Model at resolution 88x88 px. You can run the model using Edge Impulse Linux CLI tool suite.
+## Model and Deployment
 
-Below is a video demonstration of robots and rocks localisation using a RP2040 microcontroller.
+- The [`tflite-model/`](./tflite-model/) directory contains the **Edge Impulse C++ library**, which enables running the model on an **RP2040 microcontroller** using the **Pico SDK**.
+  
+- The file [`434_88.eim`](./434_88.eim) is the **best-performing Edge Impulse model**, trained on images with a resolution of **88 × 88 pixels**.
 
-https://github.com/user-attachments/assets/7edd3cea-8b37-4ba4-b12c-123b84d0e99e
+- You can run this model using the **Edge Impulse Linux CLI tools**.
+
+---
+
+## Demonstration
+
+The included video demonstrates real-time localisation of robots and rocks using an RP2040 microcontroller:
+
+- 🟢 **Green markers** indicate inferred positions of robots  
+- 🔴 **Red markers** indicate inferred positions of rocks  
+
+---
