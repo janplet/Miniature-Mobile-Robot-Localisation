@@ -2,13 +2,15 @@
 
 This repository contains the source files accompanying the paper:
 
-***Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot**
+**Constraint-Driven Neural Network Architecture Adaptation for Image Localisation on a Miniature Mobile Robot**
+
 DOI: 10.1109/JSEN.2026.3674225
 ---
 
 ## Dataset
 
 The grayscale image dataset used in this project is available on **IEEE DataPort**.
+
 DOI: 10.21227/t9e0-we58
 ---
 
